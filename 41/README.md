@@ -2,7 +2,7 @@
 
 Telegram-бот на `aiogram`, который использует OpenAI-совместимый API для подключения к локальной модели (например, Ollama). Бот сохраняет историю диалога в SQLite и поддерживает команду для очистки истории.
 
-<img width=50% src=41/screanbot.png>
+<img width=50% src=screanbot.png>
 ## Возможности
 
 - Работа с OpenAI-совместимым API локальных моделей (Ollama, LM Studio и др.)
