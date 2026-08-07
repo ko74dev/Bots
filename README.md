@@ -5,6 +5,7 @@
 ## 41 - Telegram-бот на `aiogram`
 использует OpenAI-совместимый API для подключения к локальной модели (например, Ollama). Бот сохраняет историю диалога в SQLite и поддерживает команду для очистки истории.
 
+<img src=41/screanbot.png>
 ---
 
 ## 21 - Beauty Salon Telegram Bot
